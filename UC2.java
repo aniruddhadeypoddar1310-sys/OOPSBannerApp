@@ -2,7 +2,7 @@
 
 /*
 @author: Sushil Kumar
-@version: 1.1
+@version: 1.2
 */
 
 public class UC1
@@ -10,7 +10,7 @@ public class UC1
 
     public static void main(String[] args) {
         System.out.println("OOPS");
-        System.out.println("UC1 Added");
+        System.out.println("UC2 Added");
     }
 
 }
